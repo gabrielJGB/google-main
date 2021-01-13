@@ -131,6 +131,7 @@ a {
     border: none;
     cursor: pointer;
     outline: none;
+    border-radius: 2px;
 }
 
 .buttons-box button:hover {
