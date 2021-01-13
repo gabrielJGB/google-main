@@ -1,5 +1,5 @@
 # google-main
 
-Visual imitation of the Google homapage
+Visual imitation of Google.com homepage
 
 Live: https://gabrieljgb.github.io/google-main/
